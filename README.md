@@ -48,6 +48,8 @@
 
 ##
 <a href="https://github.com/lbordonal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lbordonal&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lbordonal&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </a>
-<img src=https://komarev.com/ghpvc/?username=lbordonal&color=blue></a>
+<a href="https://github.com/lbordonal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbordonal&layout=compact&theme=github_dark&count_private=true">
+</a>
