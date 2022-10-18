@@ -7,7 +7,8 @@
 
 <a href = "mailto:lbordonal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/lucas-bordonal-681a90b9/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-
+<br />
+<img src="https://komarev.com/ghpvc/?username=lbordonal&style=flat-square&color=blue"></a>
 
 ## Skills
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
@@ -49,7 +50,4 @@
 ##
 <a href="https://github.com/lbordonal">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lbordonal&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/lbordonal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbordonal&layout=compact&theme=github_dark&count_private=true">
 </a>
