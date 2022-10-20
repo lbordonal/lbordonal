@@ -1,12 +1,13 @@
 ## Hi, I’m Lucas Bordonal
 
-- 🌱 I’m currently learning C in 42 Porto Piscine.
+- 🌱 I’m about to start Common Core at 42 Porto.
 - 📫 You can reach me at lbordonal@gmail.com
 - 💬 Ask me about anything, I’ll try to help you!
 <br />
 
 <a href = "mailto:lbordonal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/lucas-bordonal-681a90b9/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='42' src='https://img.shields.io/badge/42_porto-100000?style=for-the-badge&logo=42&logoColor=white&labelColor=black&color=black'/></a>
 <br />
 <img src="https://komarev.com/ghpvc/?username=lbordonal&style=flat-square&color=blue"></a>
 
