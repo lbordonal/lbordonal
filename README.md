@@ -36,10 +36,10 @@
 <a href='' target="_blank"><img alt='VMware' src='https://img.shields.io/badge/VMware-100000?style=flat&logo=VMware&logoColor=white&labelColor=607078&color=607078'/></a>
 </a>
 <br />
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='42' src='https://img.shields.io/badge/Datacenter_Infra-100000?style=flat&logo=&logoColor=AD0000&labelColor=AD0000&color=AD0000'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Servers-100000?style=flat&logo=&logoColor=038C45&labelColor=038C45&color=038C45'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Storage-100000?style=flat&logo=&logoColor=0600CA&labelColor=0600CA&color=0600CA'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='42' src='https://img.shields.io/badge/Networking-100000?style=flat&logo=&logoColor=7F7F7F&labelColor=7F7F7F&color=7F7F7F'/></a>
+<a href='' target="_blank"><img alt='42' src='https://img.shields.io/badge/Datacenter_Infra-100000?style=flat&logo=&logoColor=AD0000&labelColor=AD0000&color=AD0000'/></a>
+<a href='' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Servers-100000?style=flat&logo=&logoColor=038C45&labelColor=038C45&color=038C45'/></a>
+<a href='' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Storage-100000?style=flat&logo=&logoColor=0600CA&labelColor=0600CA&color=0600CA'/></a>
+<a href='' target="_blank"><img alt='42' src='https://img.shields.io/badge/Networking-100000?style=flat&logo=&logoColor=7F7F7F&labelColor=7F7F7F&color=7F7F7F'/></a>
 </a>
 </p>
   
@@ -59,16 +59,29 @@
 </p>
 
 ## Workspace Specs
-<img src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
-<img src="https://img.shields.io/badge/AMD-_RX_580-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
+<p align="left">
+<a href='' target="_blank"><img alt='intel' src='https://img.shields.io/badge/Intel_Core i5 10ᵗʰ-100000?style=flat&logo=intel&logoColor=FFFFFF&labelColor=0071C5&color=0071C5'/></a>
+</a>
+<a href='' target="_blank"><img alt='AMD' src='https://img.shields.io/badge/AMD_RX580-100000?style=flat&logo=AMD&logoColor=FFFFFF&labelColor=ED1C24&color=ED1C24'/></a>
+</a>
 <br />
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='razer' src='https://img.shields.io/badge/Hunstman_mini-100000?style=for-the-badge&logo=razer&logoColor=00FF00&labelColor=000000&color=000000'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='logitech' src='https://img.shields.io/badge/g_pro wireless-100000?style=for-the-badge&logo=logitech&logoColor=00B8FC&labelColor=EAEAEA&color=EAEAEA'/></a>
+<a href='' target="_blank"><img alt='Razer' src='https://img.shields.io/badge/Hunstman_Mini-100000?style=flat&logo=Razer&logoColor=FFFFFF&labelColor=00FF00&color=00FF00'/></a>
+</a>
+<a href='' target="_blank"><img alt='Logitech' src='https://img.shields.io/badge/G_Pro Wireless-100000?style=flat&logo=Logitech&logoColor=FFFFFF&labelColor=00B8FC&color=00B8FC'/></a>
+</a>
+<a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/HyperX_Cloud II-100000?style=flat&logo=&logoColor=FFFFFF&labelColor=EC1C24&color=EC1C24'/></a>
+</a>
+</p>
 
 ## Hobbies
-<a href ="https://steamcommunity.com/id/lbordonal/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"></a>
+<p align="left">
+<a href='https://steamcommunity.com/id/lbordonal/' target="_blank"><img alt='Steam' src='https://img.shields.io/badge/Steam-100000?style=flat&logo=Steam&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>
+</a>
+<a href='' target="_blank"><img alt='Playstation' src='https://img.shields.io/badge/Playstation-100000?style=flat&logo=Playstation&logoColor=FFFFFF&labelColor=003791&color=003791'/></a>
+</a>
+<a href='' target="_blank"><img alt='Nintendo Switch' src='https://img.shields.io/badge/Nintendo_Switch-100000?style=flat&logo=Nintendo Switch&logoColor=FFFFFF&labelColor=E60012&color=E60012'/></a>
+</a>
+</p>
 
 ##
 <a href="https://github.com/lbordonal">
