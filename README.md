@@ -5,11 +5,16 @@
 - 💬 Ask me about anything, I’ll try to help you!
 <br />
 
-<a href = "mailto:lbordonal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/lucas-bordonal-681a90b9/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='42' src='https://img.shields.io/badge/42_porto-100000?style=for-the-badge&logo=42&logoColor=white&labelColor=black&color=black'/></a>
-<br />
-<img src="https://komarev.com/ghpvc/?username=lbordonal&style=flat-square&color=blue"></a>
+<p align="center">
+<a href='mailto:lbordonal@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/GMAIL-100000?style=flat&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
+  </a>
+  <a href='https://www.linkedin.com/in/lucas-bordonal' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LINKEDIN-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+	</a>
+<a href='https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj0laaQo4P7AhUMxoUKHfLcCw0QFnoECBEQAQ&url=https%3A%2F%2Fwww.42porto.com%2F&usg=AOvVaw0pRdqAvAy6EZsrvCa49ZGX' target="_blank"><img alt='42' src='https://img.shields.io/badge/42_PORTO-100000?style=flat&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
+	</a>
+  <img src="https://komarev.com/ghpvc/?username=lbordonal&style=flat&color=blue"></a>
+  </a>
+</p>
 
 ## Skills
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
