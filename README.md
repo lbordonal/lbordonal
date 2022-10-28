@@ -1,4 +1,4 @@
-## Hi, I’m Lucas Bordonal
+## Hi, I’m Lucas Bordonal :v:
 
 - 🌱 I’m about to start Common Core at 42 Porto.
 - 📫 You can reach me at lbordonal@gmail.com
