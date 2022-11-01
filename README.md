@@ -70,7 +70,7 @@
 </a>
 <a href='' target="_blank"><img alt='Logitech' src='https://img.shields.io/badge/G_Pro Wireless-100000?style=flat&logo=Logitech&logoColor=FFFFFF&labelColor=00B8FC&color=00B8FC'/></a>
 </a>
-<a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/HyperX_Cloud II-100000?style=flat&logo=&logoColor=FFFFFF&labelColor=EC1C24&color=EC1C24'/></a>
+<a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/HyperX_Cloud II-100000?style=flat&logo=&logoColor=EC1C24&labelColor=EC1C24&color=EC1C24'/></a>
 </a>
 </p>
 
