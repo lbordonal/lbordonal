@@ -84,7 +84,4 @@
 </a>
 </p>
 
-##
-<a href="https://github.com/lbordonal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lbordonal&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-</a>
+
