@@ -1,6 +1,6 @@
 ## Hi, I’m Lucas Bordonal :v:
 
-- 🌱 I’m about to start Common Core at [**42 Porto**](https://www.42porto.com).
+- 🌱 I’m currently studing Common Core at [**42 Porto**](https://www.42porto.com).
 - :mortar_board: Electronic Engineer graduated at [**Instituto Mauá de Tecnologia**](https://maua.br/).
 - 📫 You can reach me at **lbordonal@gmail.com**
 - 💬 Ask me about anything, I’ll try to help you!
