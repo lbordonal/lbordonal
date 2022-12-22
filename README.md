@@ -6,6 +6,8 @@
 - 💬 Ask me about anything, I’ll try to help you!
 <br />
 
+![Snake animation](https://github.com/lbordonal/lbordonal/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
 <a href='mailto:lbordonal@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=flat&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
 </a>
