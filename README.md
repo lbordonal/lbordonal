@@ -1,5 +1,4 @@
-## Hi, I’m Lucas Bordonal :v:
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=220&section=header&text=Hi,%20I’m%20Lucas%20Bordonal&fontSize=50)
 - 🌱 I’m currently studing Common Core at [**42 Porto**](https://www.42porto.com).
 - :mortar_board: Electronic Engineer graduated at [**Instituto Mauá de Tecnologia**](https://maua.br/).
 - 📫 You can reach me at **lbordonal@gmail.com**
