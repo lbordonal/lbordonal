@@ -42,6 +42,7 @@
 <a href='' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Servers-100000?style=flat-square&logo=&logoColor=038C45&labelColor=038C45&color=038C45'/></a>
 <a href='' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Storage-100000?style=flat-square&logo=&logoColor=0600CA&labelColor=0600CA&color=0600CA'/></a>
 <a href='' target="_blank"><img alt='42' src='https://img.shields.io/badge/Networking-100000?style=flat-square&logo=&logoColor=7F7F7F&labelColor=7F7F7F&color=7F7F7F'/></a>
+<a href='' target="_blank"><img alt='42' src='https://img.shields.io/badge/Cloud-100000?style=flat-square&logo=&logoColor=blueviolet&labelColor=blueviolet&color=blueviolet'/></a>
 </a>
 </p>
 
