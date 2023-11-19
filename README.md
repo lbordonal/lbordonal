@@ -5,10 +5,8 @@
 - 💬 Ask me about anything, I’ll try to help you!
 
 
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://github.com/lbordonal/lbordonal/blob/main/.images/profile.png">
-
+<p align="center">
+  <img src="https://github.com/lbordonal/lbordonal/blob/main/.images/profile.png">
 </p>
 
 <br/>
