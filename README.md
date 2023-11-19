@@ -4,7 +4,12 @@
 - 📫 You can reach me at **lbordonal@gmail.com**
 - 💬 Ask me about anything, I’ll try to help you!
 
-![Snake animation](https://github.com/lbordonal/lbordonal/blob/output/github-contribution-grid-snake.svg)
+
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://github.com/lbordonal/lbordonal/blob/main/.images/profile.png">
+
+</p>
 
 <br/>
 <p align="center">
