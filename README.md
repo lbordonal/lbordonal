@@ -1,15 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=220&section=header&text=Hi,%20I’m%20Lucas%20Bordonal&fontSize=50)
-- 🌱 I’m currently studing Common Core at [**42 Porto**](https://www.42porto.com).
-- :mortar_board: Electronic Engineer graduated at [**Instituto Mauá de Tecnologia**](https://maua.br/).
-- 📫 You can reach me at **lbordonal@gmail.com**
-- 💬 Ask me about anything, I’ll try to help you!
-
-
 <p align="center">
   <img src="https://github.com/lbordonal/lbordonal/blob/main/.images/profile.png">
 </p>
 
-<br/>
 <p align="center">
 <a href='mailto:lbordonal@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=flat-square&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
 </a>
